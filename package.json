@@ -1,0 +1,22 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "A JavaScript version of the popular 1980's memory game 'Simon'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickofManc/simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickofManc/simon-game/issues"
+  },
+  "homepage": "https://github.com/RickofManc/simon-game#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
